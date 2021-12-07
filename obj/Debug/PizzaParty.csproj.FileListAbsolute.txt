@@ -1,0 +1,6 @@
+C:\Users\Nolan Pawelski\Desktop\PizzaParty\bin\Debug\PizzaParty.exe.config
+C:\Users\Nolan Pawelski\Desktop\PizzaParty\bin\Debug\PizzaParty.exe
+C:\Users\Nolan Pawelski\Desktop\PizzaParty\bin\Debug\PizzaParty.pdb
+C:\Users\Nolan Pawelski\Desktop\PizzaParty\obj\Debug\PizzaParty.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\PizzaParty\obj\Debug\PizzaParty.exe
+C:\Users\Nolan Pawelski\Desktop\PizzaParty\obj\Debug\PizzaParty.pdb
